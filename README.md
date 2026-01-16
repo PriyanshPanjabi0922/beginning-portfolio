@@ -20,3 +20,6 @@ Before this, I had started similar projects but did not finish them. This projec
 
 ## Project status
 Completed as a learning project. I plan to improve my skills further through more structured projects.
+
+##Live Demo
+https://priyanshpanjabi0922.github.io/beginning-portfolio/
